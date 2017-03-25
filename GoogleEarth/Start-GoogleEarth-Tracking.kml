@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <NetworkLink>
+    <name>UAV Sim</name>
+    <Link>
+      <href>http://127.0.0.1:8080/</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>1</refreshInterval>
+    </Link>  
+  </NetworkLink>
+</kml>
